@@ -32,5 +32,5 @@ This project builds a complete AWS infrastructure using **Terraform**. It includ
 ### 1. 📥 Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/Ahmed-wa7eed/-Deploying-A-Highly-Available-Infrastructure-in-AWS-Using-Terraform.git
+cd Deploying-A-Highly-Available-Infrastructure-in-AWS-Using-Terraform
